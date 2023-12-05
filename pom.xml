@@ -13,7 +13,7 @@
         <akka.version>2.5.17</akka.version>
         <scala.version>2.11</scala.version>
         <assertj-core.version>3.5.2</assertj-core.version>
-        <logback-classic.version>1.2.3</logback-classic.version>
+        <logback-classic.version>1.2.13</logback-classic.version>
 
         <!-- plugin versions -->
         <openjdk.version>8u131</openjdk.version>
